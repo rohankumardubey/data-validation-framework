@@ -1,0 +1,2 @@
+LoadName,ValidationType,Entity,SourceEntity,SourceMeasure,TargetEntity,TargetMeasure,AffectedMeasure,Status
+PaypalLoad,TotalCount,Table,products,1001,products,1001,0,Pass

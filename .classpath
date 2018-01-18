@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/spark-1.6.0-bin-hadoop2.6/lib/datanucleus-api-jdo-3.2.6.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/spark-1.6.0-bin-hadoop2.6/lib/datanucleus-core-3.2.10.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/spark-1.6.0-bin-hadoop2.6/lib/datanucleus-rdbms-3.2.9.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/spark-1.6.0-bin-hadoop2.6/lib/spark-1.6.0-yarn-shuffle.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/spark-1.6.0-bin-hadoop2.6/lib/spark-assembly-1.6.0-hadoop2.6.0.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/mysql-connector-java-5.1.34-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
